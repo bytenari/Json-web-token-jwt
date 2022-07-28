@@ -1,5 +1,5 @@
 import java.io.FileReader;
-import java.io.IOException;```java
+import java.io.IOException;
 public class FileReaderExample {
     public static void main(String args[]) {
         try {
@@ -18,4 +18,3 @@ public class FileReaderExample {
         }
     }
 }
-```

@@ -2,6 +2,45 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/SQL" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-controller" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-dto" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-exception" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-mapper" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-testing-junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-testing-slice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-homework-tx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-oop-reference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-reference-spring-data-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-reference-spring-data-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-solution-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-solution-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-solution-junit" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-solution-testing-slice" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-solution-tx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-Ai_V1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-Ai_V2" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-Ai_V3" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/be-sprint-calculator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-cmarket-aop" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-electricitybill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-fibonacci" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-gugudan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-lol_program" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-mystorage" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-stringify-json" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-stringify-json-reference" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-sprint-youtubesub" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-exception-handle" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-jdbc" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-service-layer" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-spring-data-jpa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-testing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/be-template-tx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/bytenari.github.io" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/spring-petclinic" vcs="Git" />
   </component>
 </project>
